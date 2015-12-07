@@ -1,0 +1,74 @@
+boneless skinless chicken breasts "sprouts"  212 g  (93 cnt) 
+soy protein isolate bulk "sprouts"           81 g   (125 cnt)
+soybean oil "carlini" (aldi)                 63 g   (11 cnt) 
+cod liver oil "twinlab"                      5 g    (14 cnt) 
+pearl barley bulk "sprouts"                  201 g  (44 cnt) 
+brown rice short-grain bulk "sprouts"        51 g   (11 cnt) 
+white rice long-grain bulk "sprouts"         46 g   (10 cnt) 
+granulated sugar "baker's corner" (aldi)     188 g  (15 cnt) 
+table salt "morton"                          1 g    (0 cnt)  
+distilled water                              3468 g (0 cnt)  
+choline tablets "nature's way"               0 g    (1 cnt)  
+chromium picolinate tablets "vitacost"       0 g    (0 cnt)  
+kelp tablets "nature's way"                  0 g    (1 cnt)  
+biotin "source naturals"                     0 g    (0 cnt)  
+molybdenum tablets "kal"                     0 g    (0 cnt)  
+potassium chloride powder "bulk supplements" 6 g    (12 cnt) 
+florical tablets "mericon"                   1 g    (14 cnt) 
+ultra calcium with vitamin d3 "vitacost"     0 g    (3 cnt)  
+magnesium tablets "vitacost"                 0 g    (0 cnt)  
+vitamin c tablets "vitacost"                 0 g    (0 cnt)  
+zinc tablets "vitacost"                      0 g    (0 cnt)  
+vitamin b-2 "solgar"                         0 g    (0 cnt)  
+vitamin b-12 tablets "solgar"                0 g    (0 cnt)  
+vitamin e "vitacost"                         0 g    (0 cnt)  
+vitamin d "vitacost"                         0 g    (0 cnt)  
+
+mass            4331 g   
+price           364 cnt  
+biotin          29 mcg   
+boron           0 mg     
+calcium         999 mg   
+carb            427 g    
+chol            188 mg   
+choline         550 mg   
+chromium        34 mcg   
+copper          2490 mcg 
+energy          2948 kcal
+fat             81 g     
+fatSat          13 g     
+fiber           38 g     
+fluoride        3999 mcg 
+folate          400 DFE  
+folateSup       173 DFE  
+iodine          150 mcg  
+iron            20 mg    
+magnesium       420 mg   
+magnesiumSup    83 mg    
+manganese       6368 mcg 
+molybdenum      45 mcg   
+niacin          35 mg    
+niacinSup       0 mg     
+nickel          0 mcg    
+pantothenicAcid 5050 mcg 
+phosphorus      1723 mg  
+potassium       4700 mg  
+protein         140 g    
+retinol         1751 mcg 
+riboflavin      1287 mcg 
+selenium        133 mcg  
+silicon         0 mg     
+sodium          1500 mg  
+sugar           186 g    
+thiamin         1212 mcg 
+vanadium        0 mcg    
+vitaminA        1753 RAE 
+vitaminB12      2376 ng  
+vitaminB6       2673 mcg 
+vitaminC        90 mg    
+vitaminD        14 mcg   
+vitaminE        15 mg    
+vitaminESup     8 mg     
+vitaminK        121 mcg  
+water           3663 g   
+zinc            10 mg    
